@@ -1,3 +1,0 @@
-Hi, I’m Jiya Elsa Jobi, a first-year student interested in Cybersecurity, Artificial Intelligence, and Digital Forensics. 
-I have basic knowledge of Python, C, and HTML and I am currently learning Git and GitHub through mulearn. 
-I am passionate about technology, problem solving, and continuous learning.
